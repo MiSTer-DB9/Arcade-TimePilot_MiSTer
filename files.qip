@@ -14,3 +14,5 @@ set_global_assignment -name VHDL_FILE time_pilot_char_color_lut.vhd
 set_global_assignment -name VHDL_FILE time_pilot_sound_board.vhd
 set_global_assignment -name VHDL_FILE time_pilot.vhd
 set_global_assignment -name SYSTEMVERILOG_FILE "Arcade-TimePilot.sv"
+set_global_assignment -name VERILOG_FILE joydb9md.v
+set_global_assignment -name VERILOG_FILE joydb15.v
