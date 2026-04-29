@@ -11,5 +11,3 @@ set_global_assignment -name QIP_FILE rtl/cpu/tp_cpu.qip
 set_global_assignment -name QIP_FILE rtl/custom/tp_custom.qip
 set_global_assignment -name QIP_FILE rtl/sound/tp_sound.qip
 set_global_assignment -name QIP_FILE rtl/ram_rom/tp_ram_rom.qip
-set_global_assignment -name VERILOG_FILE rtl/joydb9md.v
-set_global_assignment -name VERILOG_FILE rtl/joydb15.v
